@@ -20,4 +20,3 @@ module ApplicationHelper
     DevcampViewTool::Renderer.copyright 'Javier Cuadrado', 'Todos los derechos reservados'
   end
 end
-
