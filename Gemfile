@@ -52,3 +52,5 @@ gem 'ostruct', '~> 0.1.0' #If something doesn't work. Delete it!! Javier C.
 gem 'bootstrap', '~> 4.5.0'
 
 gem 'devcamp_view_tool', git: 'https://github.com/javierc435/devcamp_view_tool'
+
+gem 'petergate', '~> 2.0', '>= 2.0.1'
