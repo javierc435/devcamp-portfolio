@@ -13,6 +13,7 @@ require("channels")
 require('jquery')
 require("jquery-ui")
 
+
 $(function(){
   $('.sortable').sortable();
 });
@@ -28,4 +29,7 @@ $(function(){
 //= require popper
 //= require bootstrap-sprockets
 //= require jquery-ui
+//= require cocoon
+
 import "controllers"
+import 'cocoon-js'
