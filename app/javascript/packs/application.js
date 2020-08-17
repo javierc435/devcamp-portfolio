@@ -31,6 +31,7 @@ $(function(){
 //= require jquery-ui
 //= require cocoon
 //= require gritter
+//= require cable
 
 import "controllers"
 import 'cocoon-js'
