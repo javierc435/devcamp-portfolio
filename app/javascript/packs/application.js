@@ -30,6 +30,9 @@ $(function(){
 //= require bootstrap-sprockets
 //= require jquery-ui
 //= require cocoon
+//= require gritter
 
 import "controllers"
 import 'cocoon-js'
+import 'sweetalert'
+
